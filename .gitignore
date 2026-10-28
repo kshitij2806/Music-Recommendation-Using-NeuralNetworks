@@ -1,0 +1,5 @@
+   venv/
+   data/raw/
+   saved_models/
+   __pycache__/
+   .ipynb_checkpoints/

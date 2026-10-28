@@ -1,0 +1,1 @@
+{"weights": {"rbm": 0.4, "markov": 0.4, "baseline": 0.2}, "description": "Weighted ensemble of Latent Space (RBM), Sequential Flow (Markov), and Audio Features (Baseline)."}
